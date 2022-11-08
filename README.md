@@ -4,6 +4,8 @@ Training a neural network to generate song-lyrics using a number of curated data
 
 by Alex Pinette, Milo Lani-Caputo, and Tamsin Rogers
 
+View our blog post about this project [HERE](https://medium.com/@tsroge23/rap-lyric-generation-with-lstm-dc5e3af52210)
+
 ## Scraping data
 
 Using [Genius](https://docs.genius.com/), and [Spotify](https://developer.spotify.com/documentation/web-api/) Web APIs, we are able to get song lyrics as well as playlist and artist data.
